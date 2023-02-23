@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤙, I'm Muhammad Junaid</h1>
+<h1 align="center">Hi 🤙 , I'm Muhammad Junaid</h1>
 <h3 align="center">Geek.cs + Nice Guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-muhammad-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muhammad-junaid" /> </p>
