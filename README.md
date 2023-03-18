@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 👨‍💻 All of my projects are available at [<a href="https://techgeeks.flutterflow.app/">](techgeeks.flutterflow.app)
+- 👨‍💻 All of my projects are available at [https://mjunaid.carrd.co/] (https://mjunaid.carrd.co/)
 
 - 💬 Ask me about **flutter,firebase,artificial intelligence**
 
