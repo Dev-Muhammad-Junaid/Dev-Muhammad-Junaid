@@ -1,13 +1,13 @@
-<h1 align="center">Hi 🤙 , I'm Muhammad Junaid</h1>
+<h1 align="center">Hi 🤙 , I'm Junaid</h1>
 <h3 align="center">A Software Enginner By Day! A Software Engineer by Night</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-muhammad-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muhammad-junaid" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter | FlutterFlow**
 
-- 🌱 I’m currently learning **Dart,Flutter,Ai Tools**
+- 🌱 I’m currently learning **Dart,Flutter,FlutterflowAi Tools**
 
-- 👯 I’m looking to collaborate on **AI Projects**
+- 👯 I’m looking to collaborate on **Ai Projects**
 
 - 👨‍💻 All of my projects are available at **(https://mjunaid.carrd.co/)**
 
