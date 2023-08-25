@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-muhammad-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muhammad-junaid" /> </p>
 
-- 🔭 I’m currently working on **Flutter | FlutterFlow | Supabase**
+- 🔭 I’m currently working on **Flutter | FlutterFlow | Supabase | Firebase**
 
-- 🌱 I’m currently learning **Dart,Flutter,Flutterflow Ai Tools**
-
-- 💬 Ask me about **flutter,flutterflow, firebase,artificial intelligence**
+- 🌱 I’m currently learning **Dart,LLM's,FlutterFlow, Firebase, Ai Tools**
 
 - 📫 How to reach me **dev.muhammadjunaid@gmail.com**
 
