@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-muhammad-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muhammad-junaid" /> </p>
 
-- 🔭 I’m currently working on **Flutter | FlutterFlow**
+- 🔭 I’m currently working on **Flutter | FlutterFlow | Supabase**
 
-- 🌱 I’m currently learning **Dart,Flutter,FlutterflowAi Tools**
+- 🌱 I’m currently learning **Dart,Flutter,Flutterflow Ai Tools**
 
-- 👯 I’m looking to collaborate on **Ai Projects**
-
-- 👨‍💻 All of my projects are available at **(https://mjunaid.carrd.co/)**
-
-- 💬 Ask me about **flutter,firebase,artificial intelligence**
+- 💬 Ask me about **flutter,flutterflow, firebase,artificial intelligence**
 
 - 📫 How to reach me **dev.muhammadjunaid@gmail.com**
 
