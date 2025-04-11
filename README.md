@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter | FlutterFlow**
 
-- 😬 My portfolio can be found here : <a href="https://jaysfolio.flutterflow.app/">**Jays Folio** </a>
+- 😬 My portfolio can be found here : <a href="https://bento.me/mjunaid">**Jays Folio** </a>
 
 - 🌱 I’m currently learning **Dart, LLM's, GraphQL, Firebase Cloud Functions, Supabase,Custom Ai Models**
 
