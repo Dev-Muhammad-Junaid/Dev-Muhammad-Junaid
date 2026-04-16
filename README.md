@@ -1,28 +1,62 @@
 <h1 align="center">Hi 🤙 , I'm Junaid</h1>
-<h3 align="center">A Software Enginner By Day! A Software Engineer by Night</h3>
+<h3 align="center">A Vibecoder By Day! A Vibecoder by Night</h3>
+<p align="center"><em>"Be Curious."</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-muhammad-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muhammad-junaid" /> </p>
-
-- 🔭 I’m currently working on **Flutter | FlutterFlow**
-
-- 😬 My portfolio can be found here : <a href="https://bento.me/mjunaid">**Jays Folio** </a>
-
-- 🌱 I’m currently learning **Dart, LLM's, GraphQL, Firebase Cloud Functions, Supabase,Custom Ai Models**
-
-- 📫 How to reach me **dev.muhammadjunaid@gmail.com**
-
-- ⚡ Fun fact **I think I'm mortal**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mjunaid971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mjunaid971" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dev-muhammad-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muhammad-junaid" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://widgetsflow.com" target="_blank"><img src="https://img.shields.io/badge/Website-widgetsflow.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.youtube.com/@widgetsflow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://x.com/devJunaid1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/mjunaid971" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dev.muhammadjunaid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-dev.muhammadjunaid@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-muhammad-junaid&show_icons=true&locale=en&layout=compact" alt="dev-muhammad-junaid" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-muhammad-junaid&show_icons=true&locale=en" alt="dev-muhammad-junaid" /></p>
+### 🚀 The Vibe
+With a foundation in Computer Science and a relentless drive to build, I specialize in crafting high-impact mobile applications and dynamic digital tools. Beyond my own development work, I love playing the role of technical consultant with non-technical founders to provide the consultation and training they need to take their visions from the whiteboard to a fully shipped product.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-muhammad-junaid&" alt="dev-muhammad-junaid" /></p>
+My core playground revolves around **FlutterFlow**, **Flutter**,**Supabase** and **Firebase**. I'm incredibly humbled to be the **FFDC Community Champion of the Year**, which placed me in the top 1% of over a million FlutterFlow developers worldwide. Serving the community is everything!
+
+### 🛠️ What's Cooking
+Right now, I'm spinning up a few cool things:
+- 🍎 A **SwiftUI** app bridging the Apple Ecosystem seamlessly.
+- ⬇️ A universal **Video Downloader** for grabbing content across social platforms.
+- 🔄 A slick **[Chrome Extension (Smart Profiles Switcher)](https://chromewebstore.google.com/detail/smart-profiles-switcher/bbaaefjcbeebkkdidmcgnfkjllclmoba?pli=1)** to make multi-account switching a breeze.
+
+### 🌱 Exploring & Expanding
+I'm always learning. Lately, I've been diving deep into the infrastructure and AI side of things:
+**Agentic AI & LLMs** | **Custom AI Model Training** | **Cloudflare Setups** | **GitHub Actions**
+
+<details>
+  <summary><b>✨ My Go-To "Vibe Coding" AI Stack (Click to expand)</b></summary>
+  <br>
+  <ul>
+    <li><b>Cursor</b> - My primary AI-first IDE. It just gets it.</li>
+    <li><b>Claude</b> - The go-to for deep architectural planning and heavy context.</li>
+    <li><b>Gemini</b> - My partner for advanced reasoning and research.</li>  </ul>
+</details>
+
+---
+
+### 💻 Languages & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,swift,apple,python,graphql,cloudflare,githubactions,figma&perline=11" />
+  </a>
+</p>
+
+---
+
+### 📊 The Numbers
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-muhammad-junaid&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Junaid's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-muhammad-junaid&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-muhammad-junaid&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
