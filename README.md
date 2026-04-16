@@ -1,12 +1,13 @@
-<h1 align="center">Hi 🤙 , I'm Junaid</h1>
+<p align="center"> <img width="1200<img width="1200" height="100" alt="Screen Recording 2026-04-17 at 3 54 56 AM_same_Highest" src="https://github.com/user-attachments/assets/d4414ebe-ad35-4473-aa17-468789a1f5ca" />
 <h3 align="center">A Vibecoder By Day! A Vibecoder by Night</h3>
 <p align="center"><em>"Be Curious."</em></p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dev-muhammad-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muhammad-junaid" /> 
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dev-muhammad-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muhammad-junaid" /> </p>
+
+
 
 <p align="center">
+ 
   <a href="https://widgetsflow.com" target="_blank"><img src="https://img.shields.io/badge/Website-widgetsflow.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.youtube.com/@widgetsflow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://x.com/devJunaid1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
