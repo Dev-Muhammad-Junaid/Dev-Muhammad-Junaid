@@ -1,4 +1,4 @@
-<p align="center"> <img width="1200" height="100" alt="Screen Recording 2026-04-17 at 3 54 56 AM_same_Highest" src="https://github.com/user-attachments/assets/d4414ebe-ad35-4473-aa17-468789a1f5ca" />
+<p align="center"> <img alt="Screen Recording 2026-04-17 at 3 54 56 AM_same_Highest" src="https://github.com/user-attachments/assets/d4414ebe-ad35-4473-aa17-468789a1f5ca" />
 <h3 align="center">A Builder By Day! A Builder By Night</h3>
 <p align="center"><em>"Be Curious."</em></p>
 
